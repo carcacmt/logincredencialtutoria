@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppLoginCredencial</string>
+    <string name="titulo">Entrada del Sistema</string>
+    <string name="usert">Digite el Usuario</string>
+    <string name="passt">Digite el Password</string>
+    <string name="botont">Entrar</string>
+    <string name="Olvido">Olvido Contraseña</string>
+</resources>
